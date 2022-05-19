@@ -1,0 +1,5 @@
+Inserting into a git
+a
+b
+c
+
